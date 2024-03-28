@@ -1,6 +1,6 @@
-![](HeQX_rszd.gif)
+![](76YU_rszd.gif)
 
-*credits: https://i.gifer.com/HeQX.gif*
+*credits: https://gifer.com/en/76YU*
 
 
 <!--
