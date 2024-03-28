@@ -1,8 +1,15 @@
+## *Programador Web Front-End*  <br>
+
+_Skills:_ <br> 
+
+Frameworks Web SPA: ***Vuejs/Angular 2***<br>
+Ambiente: ***Linux/Windows*** <br>
 
 ![](9FVN_rszd.gif)
 
-
 *credits: https://gifer.com/en/9FVN*
+<br>
+
 
 
 <!--
