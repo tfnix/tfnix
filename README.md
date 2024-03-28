@@ -3,7 +3,7 @@
 _Skills:_ <br> 
 
 Frameworks Web SPA: ***Vuejs/Angular 2***<br>
-Ambiente: ***Linux/Windows*** <br>
+Ambientes: ***Linux/Windows*** <br>
 
 ![](9FVN_rszd.gif)
 
