@@ -2,7 +2,7 @@ AI inferring names.....niceeeeeee!!
 
 
 
-```
+```js
   const hasCheckedOut = Boolean(
     raw?.check_out ||
       raw?.checkout ||
